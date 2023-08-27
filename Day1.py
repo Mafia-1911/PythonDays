@@ -20,6 +20,9 @@ while True:
             tempData=input('what do you want to add')
             dataBase.append(tempData)
             print('you can check now ')
+        case 'remove':
+            dataBase.pop()
+            
             
 
             
