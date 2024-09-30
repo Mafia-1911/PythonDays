@@ -19,7 +19,6 @@ if add_pepparoni and size=='s':
 else:
     total_bill+=peparroni_others
 
-
 #/////Functions
 def greet(name):
     print(f"hello there {name}")    
@@ -121,3 +120,10 @@ user1090={
 }
 
 #we can create instances from object but not from dictionaries 
+
+
+
+
+
+
+
